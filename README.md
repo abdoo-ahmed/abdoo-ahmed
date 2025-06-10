@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman Ahmed</h1>
 <h3 align="center">A passionate Software Eng & Front-end developer using React.Js from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoo-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="abdoo-ahmed" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdoo-ahmed" alt="abdoo-ahmed" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdoo-ahmed](https://github.com/abdoo-ahmed)
 
@@ -25,6 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoo-ahmed&show_icons=true&locale=en&layout=compact" alt="abdoo-ahmed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdoo-ahmed&show_icons=true&locale=en" alt="abdoo-ahmed" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdoo-ahmed&" alt="abdoo-ahmed" /></p>
